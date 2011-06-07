@@ -34,10 +34,10 @@ namespace xnapunk
             set { XP.Singleton.IsMouseVisible = value; }
         }
         
-        public String Title
+        public static String Title
         {
-            get { return Window.Title; }
-            set { Window.Title = value; }
+            get { return XP.Singleton.Window.Title; }
+            set { XP.Singleton.Window.Title = value; }
         }
 
         public XP(Point dimensions, int framerate)

@@ -5,6 +5,7 @@ using System.Text;
 using xnapunk;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
+using demogame.entities;
 
 namespace demogame
 {
@@ -39,6 +40,9 @@ namespace demogame
                     }
                 }
             }
+
+            KeyboardState keys = Keyboard.GetState();
+            if (keys.IsKeyDown(Keys.Escape)) XP.World = new MainMenu();
 
             base.Update(gameTime);
         }

@@ -6,7 +6,7 @@ using xnapunk;
 using Microsoft.Xna.Framework;
 using xnapunk.colliders;
 
-namespace demogame
+namespace demogame.entities
 {
     class Ball : Entity
     {

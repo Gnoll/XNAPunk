@@ -88,5 +88,8 @@ namespace xnapunk
             return e;
         }
         public Entity AddGraphic(Graphic g) { return AddGraphic(g, 0, 0); }
+
+        public int EntityCount { get { return Entities.Count; } }
+
     }
 }

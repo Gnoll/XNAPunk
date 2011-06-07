@@ -7,3 +7,4 @@ C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\ResolveAssemblyRe
 C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\DemoGame.exe
 C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\DemoGame.pdb
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\bin\x86\Debug\Content\Particle.xnb

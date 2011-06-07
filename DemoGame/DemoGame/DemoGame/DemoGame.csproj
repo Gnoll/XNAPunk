@@ -107,8 +107,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="demogame\Ball.cs" />
+    <Compile Include="demogame\entities\Ball.cs" />
+    <Compile Include="demogame\entities\Particle.cs" />
     <Compile Include="demogame\ExampleWorld.cs" />
+    <Compile Include="demogame\ExampleWorld2.cs" />
+    <Compile Include="demogame\MainMenu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="xnapunk\Camera.cs" />

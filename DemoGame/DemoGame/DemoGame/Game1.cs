@@ -16,6 +16,7 @@ namespace DemoGame
             : base(new Point(800, 600))
         {
             XP.BackgroundColor = Color.FromNonPremultiplied(32, 32, 32, 255);
+            XP.Title = "XNAPunk";
         }
 
         protected override void Initialize()
@@ -27,7 +28,7 @@ namespace DemoGame
         {
             base.LoadContent();
 
-            XP.World = new ExampleWorld();
+            XP.World = new MainMenu();
         }
 
         protected override void Update(GameTime gameTime)
