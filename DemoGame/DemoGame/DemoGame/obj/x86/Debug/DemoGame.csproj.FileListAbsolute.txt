@@ -1,0 +1,9 @@
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\bin\x86\Debug\Content\Default.xnb
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\bin\x86\Debug\Content\Background.xnb
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\bin\x86\Debug\Content\Ball.xnb
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\bin\x86\Debug\DemoGame.exe
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\bin\x86\Debug\DemoGame.pdb
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\DemoGame.exe
+C:\Users\Josh\XNAPunk\DemoGame\DemoGame\DemoGame\obj\x86\Debug\DemoGame.pdb
